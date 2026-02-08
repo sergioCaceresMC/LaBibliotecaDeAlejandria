@@ -3,8 +3,6 @@ title: Cómo hacer un chat
 description: Cómo crear un chat para comunicar varias personas.
 ---
 
-## Crear un chat
-
 Este es un proyecto pequeño, pero puede ser interesante. Consiste en la creación de un servidor al que los usuarios se pueden conectar para enviar mensajes. Los mensajes se muestran publicamente.
 
 Es como un chat de grupo de WhatsApp

@@ -44,3 +44,16 @@ Estos son unos proyectos para un curso del club CEEIBIS de la Universidad Polit�
 [Aplicación simple de flask](https://github.com/sergioCaceresMC/CEEIBIS-taller-flask.git)
 
 [Aplicación con conexión a base de datos](https://github.com/sergioCaceresMC/CEEIBIS-users-flask-taller.git)
+
+## Desplegar flask en railway
+
+Railway es una plataforma de despliegue sencillo. Ideal para practicar, el problema es que si quieres hacer un proyecto grande pues tendrás que pagar bastante más que con un vps o un servicio de amazon.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/hysMCwX08sI"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
