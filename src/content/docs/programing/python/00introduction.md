@@ -66,6 +66,19 @@ Si prefieres algo más lento, aunque no necesariamente mejor, te sugiero el curs
   </iframe>
 </div>
 
+### Entornos virtuales
+
+Esto sirve para tener varias versiones de python y tener diferentes librerias en cada una.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/TNtrAvNNxTY"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Certificaciones y plataformas de aprendizaje
 
 Si quieres un papel que diga que sabes python (algo bastante inutil hoy en día) puedes completar el curso de la propia CS50 de la universidad de Harvard. Es un certificado de pago. [Página de harvard](https://cs50.harvard.edu/python/certificate/).

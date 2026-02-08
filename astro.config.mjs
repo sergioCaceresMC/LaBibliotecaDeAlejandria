@@ -16,6 +16,15 @@ export default defineConfig({
       ],
       sidebar: [
         {
+          label: "Acerca de la biblioteca",
+
+          autogenerate: { directory: "biblioteca" },
+          /*items: [
+            // Each item here is one entry in the navigation menu.
+            { label: "Example Guide", slug: "guides/example" },
+          ],*/
+        },
+        {
           label: "Programación",
 
           autogenerate: { directory: "programing" },
