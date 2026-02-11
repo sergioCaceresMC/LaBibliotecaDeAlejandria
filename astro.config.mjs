@@ -2,8 +2,11 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
-// https://astro.build/config
 export default defineConfig({
+  site: "https://sergioCaceresMC.github.io",
+  base: "/LaBibliotecaDeAlejandria/",
+  output: "static",
+
   integrations: [
     starlight({
       title: "La Biblioteca de Alejandría",
@@ -11,27 +14,17 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/sergioCaceresMC/LaBibliotecaDeAlejandria",
         },
       ],
       sidebar: [
         {
           label: "Acerca de la biblioteca",
-
           autogenerate: { directory: "biblioteca" },
-          /*items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
-          ],*/
         },
         {
           label: "Programación",
-
           autogenerate: { directory: "programing" },
-          /*items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
-          ],*/
         },
         {
           label: "Física",
