@@ -23,6 +23,10 @@ export default defineConfig({
           autogenerate: { directory: "biblioteca" },
         },
         {
+          label: "Robótica",
+          autogenerate: { directory: "robotica" },
+        },
+        {
           label: "Programación",
           autogenerate: { directory: "programing" },
         },
