@@ -33,11 +33,38 @@ Este tema de texturizado es importante porque a menos que solo uses materiales, 
 
 ## Crear animaciones en blender
 
-Incluye cómo exportarlo y traerlas a unity
+Esto es el proceso básico de cómo hacer un personaje desde 0 en Blender. Bastante didáctico.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/d3uiNwtLxQI"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/Pp_e22gGltM"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe
     src="https://www.youtube.com/embed/XexAbfge2J4"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/g_vD2piVQcQ"
     style="position: absolute; inset: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -51,6 +78,19 @@ Animator es la forma de crear animaciones y transiciones dentro de unity. con es
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe
     src="https://www.youtube.com/embed/NhEN9rAU2_w"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Hacer que el personaje hable con sprites
+
+En este tutorial explican una forma de intercambiar caras 2D de un modelo 3D. Esto lo puedes extrapolar a solo cambiar la boca para que el personaje hable
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/95zUxA55BgA"
     style="position: absolute; inset: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
