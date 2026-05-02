@@ -1,37 +1,11 @@
 ---
-title: Animaciones
+title: Modelado 3d
 description: Fuentes para aprender lo básico.
 ---
 
-## Crear modelado en blender
+## Modelado básico
 
-Esta es una serie de 4 videos. El video de texturas es un poco meh.
-
-### Modelado básico
-
-### Texturas
-
-Este tema de texturizado es importante porque a menos que solo uses materiales, necesitas exportar también las texturas de los objetos
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-  <iframe
-    src="https://www.youtube.com/embed/0RnkMPLLXq4"
-    style="position: absolute; inset: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-  <iframe
-    src="https://www.youtube.com/embed/baAEx_OVi_I"
-    style="position: absolute; inset: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Crear animaciones en blender
+### Crear modelo y animaciones en blender
 
 Esto es el proceso básico de cómo hacer un personaje desde 0 en Blender. Bastante didáctico.
 
@@ -71,26 +45,22 @@ Esto es el proceso básico de cómo hacer un personaje desde 0 en Blender. Basta
   </iframe>
 </div>
 
-## Animator en unity
+### Texturas
 
-Animator es la forma de crear animaciones y transiciones dentro de unity. con esto se hacen transiciones buenas en los juegos.
+Este tema de texturizado es importante porque a menos que solo uses materiales, necesitas exportar también las texturas de los objetos
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe
-    src="https://www.youtube.com/embed/NhEN9rAU2_w"
+    src="https://www.youtube.com/embed/0RnkMPLLXq4"
     style="position: absolute; inset: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
   </iframe>
 </div>
 
-## Hacer que el personaje hable con sprites
-
-En este tutorial explican una forma de intercambiar caras 2D de un modelo 3D. Esto lo puedes extrapolar a solo cambiar la boca para que el personaje hable
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe
-    src="https://www.youtube.com/embed/95zUxA55BgA"
+    src="https://www.youtube.com/embed/baAEx_OVi_I"
     style="position: absolute; inset: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
