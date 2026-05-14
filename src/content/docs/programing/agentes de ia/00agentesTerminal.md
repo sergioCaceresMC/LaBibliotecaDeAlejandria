@@ -1,5 +1,5 @@
 ---
-title: Introducción a OpenCode
+title: Introducción a los agentes
 description: Fuentes para aprender lo básico.
 ---
 
@@ -14,6 +14,19 @@ Esta es mi recomendación para iniciar en el campo de los agentes. Es una altern
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe
     src="https://www.youtube.com/embed/ZZq4TpNgnvg"
+    style="position: absolute; inset: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Pi Agent
+
+Este es un agente más minimalista, orientado a gente más especializada. La ventaja es que te trae lo mínimo necesario y puedes añadir las funcionalidades que deseas, como skills, tipos de agentes como el _scout_, orquestación de sub-agentes, etc.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/Dli5slNaJu0"
     style="position: absolute; inset: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
